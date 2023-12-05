@@ -1,0 +1,97 @@
+#sign_up_name{
+    width: 85%;
+}
+
+#zip_code {
+    width: 48%;
+}
+.coupon__code {
+    background-color: ivory;
+    margin-bottom: -1px;
+}
+
+#btn_zip_code {
+    background-color: rgb(245, 245, 245);
+    border: 1px solid #dddddd;
+    width: 120px;
+    height: 49px;
+    color: rgb(61, 61, 61);
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+.breadcrumb__text h2 {
+  color: #111111;
+}
+
+#id_check {
+    margin-right: 20px;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid #dddddd;
+    width: 120px;
+    height: 49px;
+    color: rgb(61, 61, 61);
+}
+
+#sign_up_btn {
+    font-size: 14px;
+    color: #ffffff;
+    background: #111111;
+    font-weight: 600;
+    border: none;
+    text-transform: uppercase;
+    display: inline-block;
+    letter-spacing: 2px;
+    padding: 14px 30px;
+    margin-left: 25%;
+    margin-top: 20px;
+  }
+
+  .testbtn {
+    background-color: rgb(245, 245, 245);
+    border: 1px solid #dddddd;
+    width: 120px;
+    height: 49px;
+    color: rgb(61, 61, 61);
+    margin-top: 40px;
+    margin-right: 100px;
+    border-radius: 10px;
+  }
+
+  .scrollBar1 {
+    width: 300px; 
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    background-color: #fdf3ea;
+    overflow-y: scroll;
+    /* border: 2px solid rgb(241, 218, 218);
+    border-radius: 5px; */
+  }
+
+  .scrollBar1 p{
+    padding-right: 20px;
+    padding-left: 20px;
+    color: #727272;
+    font-size: 12px;
+  }
+
+  .allScrollBar h5{
+    display: inline-block;
+    font-weight: 600;
+    color: #272727;
+    border-bottom: 1px solid rgb(214, 214, 214);
+  }
+
+  .allScrollBar h5 span{
+    color: red;
+    font-size: 15px;
+    font-weight: 100;
+  }
+  
+  input:active{
+    border: 2px solid #fdd8a0;
+  }
+  input:focus{
+    border: 2px solid #fdd8a0;
+  }

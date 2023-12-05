@@ -1,0 +1,29 @@
+
+.boardName{
+    font-size: 15px;
+}
+
+.boardCorrection{
+    text-align: center;
+}
+
+.boardDetail{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 30px;
+    border-style: ridge;
+    border-radius: 20px;
+    height: 200px;
+}
+
+.boardDate{
+    text-align: center;
+    width: 160px;
+    border-radius: 10px;
+    
+}
+.boardDate2 {
+    text-align: right;
+    margin-bottom: -15px;
+}

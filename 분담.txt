@@ -1,12 +1,12 @@
 (은배)
-05. 브랜드소개	O
+05. 브랜드소개	O (abut)
 - 브랜드소개 있음		: css(1) + js(1)
 (blog, about)
 	-> css(1) + js(1)
 	
 01. 메인페이지	O 
-- 슬라이더 있음		: css(1) + js(1)
-- 달력 없음 		: css(1) + js(1)
+- 슬라이더 있음		: css(1) + js(1) (자동 넘김)
+- 달력 없음 		: css(1) + js(1) (색칠)
 - 공지 없음		: css(2) + js(1) 
 	-> css(4) + js(3)
 	
@@ -75,3 +75,39 @@
 11. header, footer import작업		: js(1)
 
 ----------------------------------------------
+
+최은배
+01. 브랜드소개	
+- pageName : about.html / .js / .css
+
+02. 메인
+- pageName : index.html / .js / .css
+- pageName : index.html / cal.js/ cal.css
+
+03. 이벤트 상세
+- pageName : eventDt.html / js / css
+
+* 최은배 작업 진척도 : 
+수(11/29)
+	-> pageName : about.html / .js / .css 작업 완료 및 테스트 
+
+목(11/30)
+	-> pageName : boardDt.html / js / css 작업 완료 및 테스트 
+
+금(12/01)
+	-> pageName : eventDt.html / js / css 작업 완료 및 테스트 
+
+토(12/02)
+	-> pageName : index.html / cal.js/ cal.css 작업 완료 및 테스트
+
+일(12/03)
+	->  작업 내역 테스트 및 버그 수정
+
+월(12/04)
+	->  통합 
+
+화(12/05)
+	-> 최종 테스트 및 버그 수정
+
+
+

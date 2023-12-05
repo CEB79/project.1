@@ -16,7 +16,7 @@ fetch("header.html").then(function response(response){
 fetch("borderC.html").then(function response(response){
     return response.text();
 }).then(function data (data) {
-    document.querySelector("boarderC").innerHTML = data; /* '= '-> '+='로 변경 엎어치기 x*/
+    document.querySelector(".borderC").innerHTML += data; /* '= '-> '+='로 변경 엎어치기 x*/
     console.log(data)
 });
 }
